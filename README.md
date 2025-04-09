@@ -23,3 +23,15 @@ The project will be divided into two major sections: **Frontend** and **Backend*
 - **Backend:** The server will manage data operations with MongoDB using Mongoose for schema consistency. API endpoints will handle CRUD operations (Create, Read, Update, Delete) through HTTP methods like `POST`, `GET`, `PUT`, `PATCH`, and `DELETE`.
 
 We will use **bcrypt** to hash user passwords for added security, and the project structure will prioritize scalability and maintainability.
+
+# Milestone 2 - README Summary
+
+Structured project with separate frontend (React) and backend (Node.js) directories.
+
+Initialized a React app and configured React Router for navigation.
+
+Applied CSS for custom styling to improve the user interface.
+
+Developed a functional login page with a password visibility toggle.
+
+Pushed the code to a public GitHub repository and updated the README.
