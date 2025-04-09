@@ -47,3 +47,15 @@ Connected the application to MongoDB for data storage.
 Implemented basic error handling for better debugging and user feedback.
 
 Updated the README to document backend setup and progress.
+
+# Milestone 4: User Model, Controller & File Uploads
+
+Created a User Model in MongoDB to store user details.
+
+Developed a User Controller to handle user-related operations.
+
+Configured Multer to allow users to upload profile images.
+
+Implemented error handling middleware for better debugging.
+
+Updated the README and pushed the changes to GitHub.
