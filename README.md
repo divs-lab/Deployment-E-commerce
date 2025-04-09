@@ -35,3 +35,15 @@ Applied CSS for custom styling to improve the user interface.
 Developed a functional login page with a password visibility toggle.
 
 Pushed the code to a public GitHub repository and updated the README.
+
+# Milestone 3 - README Summary
+
+Organized the backend with dedicated folders for routes, controllers, models, and middleware.
+
+Set up a Node.js server using Express with CORS and JSON parsing enabled.
+
+Connected the application to MongoDB for data storage.
+
+Implemented basic error handling for better debugging and user feedback.
+
+Updated the README to document backend setup and progress.
